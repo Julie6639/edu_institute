@@ -14,12 +14,12 @@ CREATE TABLE students (
 -- data entry
 INSERT INTO students (student_id, name, age, gender, enrollment_date, program)
 VALUES
-(1, 'chalin ruto', 22, 'F', '2024-01-10', 'Data Science'),
+(1, 'Chalin Ruto', 22, 'F', '2024-01-10', 'Data Science'),
 (2, 'Brian Otieno', 24, 'M', '2023-09-15', 'Cyber Security'),
 (3, 'Clara Wanjiru', 21, 'F', '2024-02-01', 'Software Engineering'),
 (4, 'Albert Ojwang', 23, 'M', '2023-11-20', 'Data Science'),
 (5, 'Evelyn Achieng', 20, 'F', '2024-03-12', 'Artificial Intelligence'),
-(6, 'simon njenge' ,19, 'M', 2024-06-14, 'Data Science'),
+(6, 'Simon Njenge' ,19, 'M', 2024-06-14, 'Data Science'),
 (7, 'Baxy Pendo', 25, 'F' '2023-05-2015', 'cyber Security');
 SELECT * FROM  students;
 -- basic query
